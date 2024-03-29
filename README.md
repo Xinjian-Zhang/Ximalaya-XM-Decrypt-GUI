@@ -7,8 +7,10 @@
 打开后可选择单个文件或文件夹，然后选择输出目录，若取消选择输出目录，则默认输出到根目录下，自动开始转换，完成后弹框提示。
 
 
-对于Windows用户，可以直接下载简单封装的.exe [点击下载](https://raw.githubusercontent.com/Xinjian-Zhang/Ximalaya-XM-Decrypt-GUI/main/喜玛拉x音频解密工具.exe)
+对于Windows用户，可以直接下载简单封装的.exe [点击下载](https://raw.githubusercontent.com/Xinjian-Zhang/Ximalaya-XM-Decrypt-GUI/main/喜玛拉x音频解密工具.exe)<br>
+[下载xm_encryptor.wasm](https://raw.githubusercontent.com/Xinjian-Zhang/Ximalaya-XM-Decrypt-GUI/main/xm_encryptor.wasm)
 
+> 注：需要将`xm_encryptor.wasm`与`喜玛拉x音频解密工具.exe`放在同一目录下使用
 
 **感谢**<br>
 原作者：[Daxiaozhang](https://github.com/Diaoxiaozhang/)
